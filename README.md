@@ -16,7 +16,7 @@
 | `Order_Items` | Line items within an order, referencing a specific variant |
 | `Inventory` | Stock quantity per variant, one row per variant |
 
-**refer the link for database and tables:**
+**refer the link for database and tables:** (https://github.com/JayeshGuptta/Task1-Ecommerce_Database)
 
 ## Practice queries: SQL fundamentals
 
